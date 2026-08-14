@@ -24,3 +24,7 @@ __pycache__/
 
 # Java compiled files
 *.class
+
+# Screenshots
+ss1/
+ss2/
