@@ -46,7 +46,7 @@ The main objectives of this project are:
 ## 📊 Dataset
 
 The project uses **NYC taxi trip data** containing information about taxi journeys in New York City.
-
+The project uses **[NYC Yellow Taxi Trip Records](https://www.kaggle.com/datasets/psvishnu/nyc-yellow-taxi-trip-records/?select=yellow_tripdata_2023-02.parquet)** containing information about taxi journeys in New York City.
 Depending on the dataset version, the records may contain fields related to:
 
 * Taxi/vendor information
