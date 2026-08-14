@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Build files
+build/
+build_hourly/
+
+# Hadoop output
+output/
+
+# Large/raw datasets
+data/
+
+# Temporary validation/generated files
+validation/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Java compiled files
+*.class
